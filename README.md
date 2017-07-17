@@ -10,6 +10,6 @@
 
 asdasd
 asdas
-<details>
+</details>
 
 asdqwe
